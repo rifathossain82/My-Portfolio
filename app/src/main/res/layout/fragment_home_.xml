@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_light"
+    tools:context=".Home_Fragment">
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical">
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:fontFamily="@font/asul_bold"
+          android:text="Rifat\nHossain"
+          android:layout_marginTop="16dp"
+          android:layout_marginStart="32dp"
+          android:layout_marginLeft="32dp"
+          android:textSize="24sp"
+          android:textColor="@color/text_color"
+          android:lineSpacingExtra="-5dp"/>
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Web &amp; App Developer"
+          android:layout_marginTop="8dp"
+          android:layout_marginRight="8dp"
+          android:textColor="@color/hint_color"
+          android:layout_marginStart="32dp"
+          android:layout_marginLeft="32dp"/>
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/my_details"
+          android:layout_marginTop="16dp"
+          android:layout_marginRight="8dp"
+          android:layout_marginStart="32dp"
+          android:layout_marginLeft="32dp"
+          android:textColor="@color/hint_color"
+          android:lineSpacingExtra="8dp"/>
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:fontFamily="@font/asul_bold"
+          android:text="Teach Lead At Google"
+          android:layout_marginTop="32dp"
+          android:layout_marginStart="32dp"
+          android:layout_marginLeft="32dp"
+          android:textColor="@color/text_color"
+          android:textSize="24sp"/>
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/lorem2"
+          android:layout_marginTop="16dp"
+          android:layout_marginRight="8dp"
+          android:layout_marginStart="32dp"
+          android:layout_marginLeft="32dp"
+          android:textColor="@color/hint_color"
+          android:lineSpacingExtra="8dp"/>
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:fontFamily="@font/asul_bold"
+          android:text="Computer Science Diploma"
+          android:layout_marginTop="32dp"
+          android:layout_marginStart="32dp"
+          android:layout_marginLeft="32dp"
+          android:textColor="@color/text_color"
+          android:textSize="24sp"/>
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/lorem2"
+          android:layout_marginTop="16dp"
+          android:layout_marginRight="8dp"
+          android:layout_marginStart="32dp"
+          android:layout_marginLeft="32dp"
+          android:textColor="@color/hint_color"
+          android:lineSpacingExtra="8dp"
+          android:paddingBottom="20dp"/>
+  </LinearLayout>
+
+</ScrollView>

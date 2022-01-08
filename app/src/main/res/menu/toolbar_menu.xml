@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/menu_dark"
+    app:showAsAction="ifRoom"
+    android:title="Dark" />
+    <item
+        android:id="@+id/menu_share"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="never"
+        android:title="Share" />
+    <item
+        android:id="@+id/menu_Feedback"
+        android:icon="@drawable/ic_feedback"
+        app:showAsAction="never"
+        android:title="Feedback" />
+    <item
+        android:id="@+id/menu_language"
+        android:icon="@drawable/ic_language"
+        app:showAsAction="never"
+        android:title="Language" />
+
+</menu>

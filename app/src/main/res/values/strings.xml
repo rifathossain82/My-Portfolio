@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem">After successfully project loaded run the application and check your navigation drawer activity is working properly or not. In case of some issues, please check the problem and resolve it before proceeding to the next steps. Try to fix by cleaning and rebuilding the project hope it works.</string>
+    <string name="lorem2">In case of some issues, please check the problem and resolve it before proceeding to the next steps. Try to fix by cleaning and rebuilding the project hope it works.</string>
+    <string name="my_details">I am a professional software engineer with expertise in software creation, Java programming, and Android application development. And I am also a professional website designer and developer.</string>
+    <string name="facebook_icon">f294</string>
+</resources>
